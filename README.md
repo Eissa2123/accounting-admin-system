@@ -1,4 +1,6 @@
 # Accounting & Administrative System Case Study
+A responsive accounting and administrative system case study covering login, dashboard, invoices, settings, and mobile support.
+
 
 ## Overview
 This project is a case study for a full accounting and administrative management system designed to support daily business operations through a structured, user-friendly, and responsive interface.
